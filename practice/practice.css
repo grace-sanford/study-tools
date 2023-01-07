@@ -4,7 +4,28 @@
 After each problem, add a new line and write your code. */
 
 /* apply the background color `aliceblue` to the body */
+body {
+    background: aliceblue;
+}
+
 /* give the class `card` a 2px dashed purple border */
+.card {
+    border: "2px purple";
+    border-style: dashed;
+}
+
 /* give an h3 heading in the `card` class a wavy teal underline */
+h3.card {
+    text-decoration: "underline wavy";
+}
+
 /* make links in the `card` class bold instead of underlined */
+links.card {
+    font-weight: bold;
+    text-decoration: none;
+}
+
 /* make the links in the `card` class underlined when you hover over them */
+links:hover {
+    text-decoration: underline;
+}

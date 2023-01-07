@@ -26,7 +26,7 @@ This repo has a `practice` folder with several files:
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ### JS
-- [MDN: JS](https://developer.mozilla.org/en-US/docs/Web/JavaScripts)
+- [MDN: JS](https://developer.mozilla.org/en-US/docs/Web/JavaScripts).
 - [W3 Schools: JS](https://www.w3schools.com/js/default.asp)
 - [Eloquent Javascript](https://eloquentjavascript.net/)
 - [CodingJS](https://the-winter.github.io/codingjs/)
